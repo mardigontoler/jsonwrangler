@@ -1,29 +1,7 @@
-# jsonwrangler
+# JSON Wrangler
+![Json Wrangler Logo](./public/android-chrome-192x192.png)
 
-## Project setup
-```
-yarn install
-```
+This is a simple web app that helps you unescape JSON that's been escaped 
+any number of times and pretty-prints the result.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can run this locally with by running `yarn install` and `yarn serve`.
